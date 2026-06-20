@@ -6,7 +6,7 @@
 
 ## 🎯 About Me
 
-- 🎓 B.Tech CSE (AIML) | 2nd Year
+- 🎓 B.Tech CSE (AIML) | 3rd Year
 - 🔭 Currently Exploring: Machine Learning, Deep Learning and NLP
 - 🛠️ Tech Stack: Python, Sklearn, PyTorch, Pandas, NumPy, SQL
 - 🎯 Focus: Building end-to-end ML projects and solving real-world data problems
